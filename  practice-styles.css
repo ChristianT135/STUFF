@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(252, 252, 252);
+    font-family: Tahoma, Arial, sans-serif;
+    width:  95%;
+    
+}
+
+h1 {
+    color: #927c00;
+    font: 32px Garamond, Helvetica, serif;
+    text-align: center;
+}
+
+table, th, td {
+    width: 50%;
+   border: 3px solid black;
+   padding: 3px;
+   background-color: #927c00;
+  
+}
+
+thead {
+    text-align:left;
+}
+
+label {
+    display: block;
+    
+}
+
+#submit-btn {
+    display: block;
+    background-color: #927c00;
+    
+}
+
+section {
+    border:  #1707f8 solid 4px;
+    
+    padding: 5PX;   
+}
+ 
+ 
+ h2 {
+     color: #927c00;
+     color: #fff
+     ;
+ }
+
